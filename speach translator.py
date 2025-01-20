@@ -65,7 +65,7 @@ if target_language_spoken:
 
             try:
                 # Specify the custom directory to store the MP3 file
-                custom_directory = r"C:\Users\rapar\OneDrive\Desktop\project\audios"  # Update the directory path as needed
+                custom_directory = r"C:\Users\rapar\OneDrive\Desktop\project\project_1\audios"  # Update the directory path as needed
 
                 # Ensure the directory exists, if not, create it
                 if not os.path.exists(custom_directory):
